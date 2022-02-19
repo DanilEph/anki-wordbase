@@ -1,0 +1,8 @@
+body, html {
+  margin: 0;
+  background-color: black;
+};
+
+table, td, th {
+  font-family: Arial, Helvetica, sans-serif;
+}
